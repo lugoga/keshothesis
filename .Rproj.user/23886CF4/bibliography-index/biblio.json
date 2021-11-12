@@ -1,0 +1,30 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "dropping-particle": "name",
+                    "family": "Last name",
+                    "given": "First"
+                }
+            ],
+            "container-title": "Journal",
+            "id": "example",
+            "issue": "number",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "pages",
+            "title": "Title of article",
+            "type": "article-journal",
+            "volume": "volume"
+        }
+    ],
+    "project_biblios": [
+        "citations.bib"
+    ]
+}
